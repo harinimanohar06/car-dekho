@@ -46,7 +46,7 @@ The app loads the following pre-trained components:
 
 ---
 
-## 📂 Project overview
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/7a3c11c9-cf53-419c-b735-ee4d2bba3a48" />
+
+
 
 
