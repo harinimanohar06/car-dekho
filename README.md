@@ -42,7 +42,17 @@ The app loads the following pre-trained components:
 - Streamlit  
 - Pandas / NumPy  
 - Scikit‑learn  
-- Pickle  
+- Pickle
+
+  ---
+  ##Overview
+  <img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/ee8b7eab-82d8-41f9-a348-37247b6f8a97" />
+  <img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/d8ba61d4-1379-4de2-8fdc-01c2475ba8e0" />
+  <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/5d0b1153-9c46-4370-a17b-86ceefcb5058" />
+
+
+
+  
 
 ---
 
